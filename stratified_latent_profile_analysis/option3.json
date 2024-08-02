@@ -1,0 +1,69 @@
+{
+    "Complex Problem Solving Skills": [
+        "Complex Problem Solving"
+    ],
+    "Resource Management Skills": [
+        "Management of Financial Resources",
+        "Management of Material Resources",
+        "Management of Personnel Resources",
+        "Time Management"
+    ],
+    "Social Skills": [
+        "Coordination",
+        "Instructing",
+        "Negotiation",
+        "Persuasion",
+        "Service Orientation",
+        "Social Perceptiveness"
+    ],
+    "Systems Skills": [
+        "Judgment and Decision Making",
+        "Systems Analysis",
+        "Systems Evaluation"
+    ],
+    "Tech-1": [
+        "Equipment Maintenance",
+        "Equipment Selection",
+        "Installation",
+        "Operation and Control",
+        "Operations Monitoring",
+        "Quality Control Analysis",
+        "Repairing",
+        "Troubleshooting"
+    ],
+    "Tech-2": [
+        "Operations Analysis",
+        "Programming",
+        "Technology Design"
+    ],
+    "Active Listening": [
+        "Active Listening"
+    ],
+    "Mathematics": [
+        "Mathematics"
+    ],
+    "Reading Comprehension": [
+        "Reading Comprehension"
+    ],
+    "Science": [
+        "Science"
+    ],
+    "Speaking": [
+        "Speaking"
+    ],
+    "Writing": [
+        "Writing"
+    ],
+    "Process": [
+        "Active Learning"
+    ],
+    "Critical Thinking": [
+        "Critical Thinking"
+    ],
+    "Learning Strategies": [
+        "Learning Strategies"
+    ],
+    "Monitoring": [
+        "Monitoring"
+    ]
+}
