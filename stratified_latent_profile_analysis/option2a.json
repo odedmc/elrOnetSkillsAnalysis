@@ -34,34 +34,34 @@
         "Technology Design",
         "Troubleshooting"
     ],
-    "Active Listening": [
+    "Content": [
         "Active Listening"
     ],
-    "Mathematics": [
+    "Content": [
         "Mathematics"
     ],
-    "Reading Comprehension": [
+    "Content": [
         "Reading Comprehension"
     ],
-    "Science": [
+    "Content": [
         "Science"
     ],
-    "Speaking": [
+    "Content": [
         "Speaking"
     ],
-    "Writing": [
+    "Content": [
         "Writing"
     ],
     "Process": [
         "Active Learning"
     ],
-    "Critical Thinking": [
+    "Process": [
         "Critical Thinking"
     ],
-    "Learning Strategies": [
+    "Process": [
         "Learning Strategies"
     ],
-    "Monitoring": [
+    "Process": [
         "Monitoring"
     ]
 }
